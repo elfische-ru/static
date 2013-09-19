@@ -1,0 +1,249 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\000039}}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000314}}
+audio, canvas, video {
+  display: inline-block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000320}}
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000327}}
+[hidden], template {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000338}}
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000348}}
+body {
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000357}}
+a {
+  background: transparent;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000359}}
+a:focus {
+  outline: thin dotted;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000361}}
+a:active, a:hover {
+  outline: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000375}}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000381}}
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000386}}
+b, strong {
+  font-weight: bold;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000391}}
+dfn {
+  font-style: italic;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\0000396}}
+hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003103}}
+mark {
+  background: yellow;
+  color: black;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003109}}
+code, kbd, pre, samp {
+  font-family: monospace, serif;
+  font-size: 1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003115}}
+pre {
+  white-space: pre-wrap;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003120}}
+q {
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003125}}
+small {
+  font-size: 80%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003130}}
+sub {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003136}}
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003143}}
+sub {
+  bottom: -0.25em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003153}}
+img {
+  border: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003158}}
+svg:not(:root) {
+  overflow: hidden;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003167}}
+figure {
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003176}}
+fieldset {
+  border: 1px solid silver;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003184}}
+legend {
+  border: 0;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003194}}
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003205}}
+button, input {
+  line-height: normal;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003214}}
+button, select {
+  text-transform: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003223}}
+button, html input[type="button"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003230}}
+input[type="reset"], input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003239}}
+button[disabled], html input[disabled] {
+  cursor: default;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003247}}
+input[type="checkbox"], input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003252}}
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003259}}
+input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003272}}
+button::-moz-focus-inner, input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003280}}
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/normalize\.sass}line{font-family:\00003292}}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/about\.sass}line{font-family:\000034}}
+.page-wrapper > .content {
+  padding: 1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/about\.sass}line{font-family:\000037}}
+.page-wrapper > .content > .about {
+  margin: 3rem 0 0 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/about\.sass}line{font-family:\0000310}}
+.page-wrapper > .content > .about p {
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/about\.sass}line{font-family:\0000313}}
+.page-wrapper > .content > .about h1 {
+  font-size: 1rem;
+  margin: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/about\.sass}line{font-family:\0000317}}
+.page-wrapper > .content > .about > .content {
+  margin-top: 1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/about\.sass}line{font-family:\0000320}}
+.page-wrapper > .content > .about > .content > .contents {
+  margin: 1rem 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/user\/data\/projects\/elfische\/elfische\.ru\/git\/static\/sass\/about\.sass}line{font-family:\0000323}}
+.page-wrapper > .content > .about > .content > .contents ul {
+  margin: 0;
+}
